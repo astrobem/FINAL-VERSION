@@ -44,7 +44,7 @@ void loop() {
 
   radio.receive(data);
 
-    SerialUSB.print("Received (RSSI = ");
+  SerialUSB.print("Received (RSSI = ");
   SerialUSB.print(radio.get_rssi_last());
   SerialUSB.print("): ");
 

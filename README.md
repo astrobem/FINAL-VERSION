@@ -9,9 +9,11 @@
 
 Two days after making our CanSat we dropped it from about 55 meters and collected some data.
 
+
 <div align="center">
+  <img src="https://github.com/astrobem/FINAL-VERSION/blob/main/CanSat-Progress/ascending.svg"/>
   <video src="https://user-images.githubusercontent.com/94625239/225011723-d4e9cd20-f8a7-4aa5-a9fe-06de0bce10e7.mp4"/>
 <div/>
   
-![data](https://github.com/astrobem/FINAL-VERSION/blob/main/CanSat-Progress/ascending.svg)
+
 

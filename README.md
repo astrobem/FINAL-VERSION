@@ -1,5 +1,4 @@
-# FINAL-VERSION
-## This is final version of CanSat made by group of students called "AstroBem".
+# This is final version of CanSat made by group of students called "AstroBem".
 
 ### Here are some photos of our progress!
 

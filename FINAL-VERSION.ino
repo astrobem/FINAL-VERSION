@@ -70,18 +70,7 @@ void setup() {
   mpu.setFilterBandwidth(MPU6050_BAND_21_HZ); //dotad
  
   status = bmp.begin(0x76); //tu sie wpisuje port z i2c 
-  /*
-  if (!status) {
-    SerialUSB.println(F("Could not find a valid BMP280 sensor, check wiring or "
-                      "try a different address!"));
-    SerialUSB.print("SensorID was: 0x"); SerialUSB.println(bmp.sensorID(),16);
-    SerialUSB.print("        ID of 0xFF probably means a bad address, a BMP 180 or BMP 085\n");
-    SerialUSB.print("   ID of 0x56-0x58 represents a BMP 280,\n");
-    SerialUSB.print("        ID of 0x60 represents a BME 280.\n");
-    SerialUSB.print("        ID of 0x61 represents a BME 680.\n");
-    while (1) delay(10);
-    */
-
+ 
   bmp.setSampling(Adafruit_BMP280::MODE_NORMAL,    
                   Adafruit_BMP280::SAMPLING_X2,   
                   Adafruit_BMP280::SAMPLING_X16,   

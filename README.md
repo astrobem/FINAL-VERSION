@@ -9,6 +9,5 @@
 ### Then we designed and printed our case, soldered and constructed all of the modules with help of Mr. Witkowski.
 
 Two days after making our CanSat we dropped it from about 55 meters and collected some data.
-https://raw.githubusercontent.com/astrobem/FINAL-VERSION/main/CanSat-Progress/Dropping-CanSat.mp4
 
-
+https://user-images.githubusercontent.com/94625239/225011723-d4e9cd20-f8a7-4aa5-a9fe-06de0bce10e7.mp4

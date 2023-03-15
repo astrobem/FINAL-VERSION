@@ -17,7 +17,7 @@
 { "force": 19.00, "temperature": 12.31, "presssure": 99704.78, "altitude": 14.61, "acceleration_x": -1.30, "acceleration_y": -0.85, "acceleration_z": -8.72, "time": 276.00, "lat": 52.130334, "lng": 20.682371 },
 { "force": 19.00, "temperature": 12.33, "presssure": 99709.33, "altitude": 14.18, "acceleration_x": -0.35, "acceleration_y": -0.52, "acceleration_z": -8.87, "time": 278.00, "lat": 52.130334, "lng": 20.682371 },
 { "force": 12.00, "temperature": 12.35, "presssure": 99711.45, "altitude": 14.04, "acceleration_x": -1.62, "acceleration_y": -0.07, "acceleration_z": -8.25, "time": 280.00, "lat": 52.130334, "lng": 20.682371 },
-{ "force": 89.00, "temperature": 12.37, "presssure": 99712.73, "altitude": 13.94, "acceleration_x": -1.64, "acceleration_y": -1.39, "acceleration_z": -8.21 "time": 282.00, "lat": 52.130334, "lng": 20.682371 },
+{ "force": 89.00, "temperature": 12.37, "presssure": 99712.73, "altitude": 13.94, "acceleration_x": -1.64, "acceleration_y": -1.39, "acceleration_z": -8.21, "time": 282.00, "lat": 52.130334, "lng": 20.682371 },
 { "force": 15.00, "temperature": 12.39, "presssure": 99714.65, "altitude": 13.77, "acceleration_x": -0.03, "acceleration_y": -0.57, "acceleration_z": -8.86, "time": 284.00, "lat": 52.130334, "lng": 20.682371 },
 { "force": 22.00, "temperature": 12.43, "presssure": 99718.12, "altitude": 13.49, "acceleration_x": -1.19, "acceleration_y": -1.32, "acceleration_z": -7.72, "time": 286.00, "lat": 52.130334, "lng": 20.682371 },
 { "force": 92.00, "temperature": 12.44, "presssure": 99718.71, "altitude": 13.43, "acceleration_x": -0.45, "acceleration_y": -1.28, "acceleration_z": -8.65, "time": 288.00, "lat": 52.130334, "lng": 20.682371 },

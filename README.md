@@ -8,6 +8,7 @@
 <br/><br/>
 
 ### Here are some photos of our progress!
+<br/><br/>
 
 ![335556536_242604421436743_6173211554007564831_n](https://github.com/astrobem/FINAL-VERSION/blob/main/CanSat-Progress/CanSat2.jpg)
 ### Before constructing anything, we tested our sensors using breadboards and jumper wires.

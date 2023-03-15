@@ -1,1 +1,0 @@
-There are some photos of our progress. Firstly we had only breadboard and arduino m0 with sensor. Then we printed our case and we made module with help of Mr. Witkowski. Two days after making our CanSat we dropped it from about 55m and collected data.

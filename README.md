@@ -24,6 +24,7 @@ Here's a graph that shows level of force while cansat was ascending
 
 Here's a diagram of our cansat's pressure sensor 
 
+
 <div align="center">
 <img src="https://github.com/astrobem/FINAL-VERSION/blob/main/CanSat-Progress/diagram.png"/>
 </div>

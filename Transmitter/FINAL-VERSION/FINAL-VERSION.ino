@@ -146,7 +146,7 @@ void loop() {
     SerialUSB.print("rotation_z = " + (String(rotation_z,2)) + " rad/s");
   }
   
-  JsonData = "{\"force\":" + (String(force,2)) + ",\"temperature\": " + (String(temperature,2)) + ",\"presssure\": " + (String(pressure,2)) + ",\"acceleration_x\": " + (String(acceleration_x,2)) + ",\"acceleration_y\": " + (String(acceleration_y,2)) + ",\"acceleration_z\": " + (String(acceleration_z,2)) +",\"time\": " + (String(time,2)) + ",\"rotation_x\": " + (String(rotation_x,2)) + ",\"rotation_y\": " + (String(rotation_y,2)) + ",\"rotation_z\": " + (String(rotation_z,2)) + ",\"lat\": " + (String(lat,6)) + ",\"lng\": " + (String(lng,6)) + ",\"alt\": " + (String(alt,2)) + "}";
+  JsonData = "{\"force\":" + (String(force,2)) + ",\"temperature\": " + (String(temperature,2)) + ",\"pressure\": " + (String(pressure,2)) + ",\"acceleration_x\": " + (String(acceleration_x,2)) + ",\"acceleration_y\": " + (String(acceleration_y,2)) + ",\"acceleration_z\": " + (String(acceleration_z,2)) +",\"time\": " + (String(time,2)) + ",\"rotation_x\": " + (String(rotation_x,2)) + ",\"rotation_y\": " + (String(rotation_y,2)) + ",\"rotation_z\": " + (String(rotation_z,2)) + ",\"lat\": " + (String(lat,6)) + ",\"lng\": " + (String(lng,6)) + ",\"alt\": " + (String(alt,2)) + "}";
 
   frame.print(JsonData);
 

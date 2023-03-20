@@ -2,10 +2,6 @@
 
 
 
-<div align="center">
-<video src="https://user-images.githubusercontent.com/94625239/225011723-d4e9cd20-f8a7-4aa5-a9fe-06de0bce10e7.mp4"/>
-</div>
-<br/><br/>
 
 ### Here are some photos of our progress!
 <br/><br/>

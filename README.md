@@ -1,4 +1,3 @@
-https://www.tinkercad.com/things/0Z9mmPqMIq4-brave-amur/edit?sharecode=k4uagzOuZ9OmsOfq78aDRXXp8R5zorcowNd5Y3_Q198
 # This is final version of CanSat made by group of students called "AstroBem".
 
 

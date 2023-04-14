@@ -108,6 +108,8 @@ bool save_to_file(String filename, String content, bool newlane = true)
   } else {
     dataFile.print(content);
   }
+  
+  dataFile.close();
 
   return true;
 }
@@ -118,7 +120,7 @@ void loop() {
   mpu.getEvent(&a, &g, &temp); //musi byc temp
 
   // digitalWrite(readDiode, HIGH);
-  time = millis() / 100;
+  time = millis();
   force = 1023.0 - analogRead(A0); //nacisk
   temperature = bmp.readTemperature();
   pressure = bmp.readPressure();
@@ -153,8 +155,7 @@ void loop() {
   radio.transmit(frame);
   frame.clear();
 
-  save_to_file("v5.txt", JsonData);
-      dataFile.close();                    //ŁUKASZ musi byc close file ziomek
+  save_to_file("v6.txt", JsonData);
    
   while (SerialGPS.available() > 0)
 
